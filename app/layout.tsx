@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
+/* @ts-ignore */
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "SPOTKARO — Can't go there? Check it.",
   description:
     "Need something checked? Ask someone nearby. Or complete local tasks and earn money.",
-  themeColor: "#11110f",
   icons: {
     icon: "/favicon.ico",
   },
